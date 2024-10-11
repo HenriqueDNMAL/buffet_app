@@ -42,6 +42,9 @@ gem 'bootstrap', '~> 5.0.2'
 #Use Dotenv for Environment Management
 gem 'dotenv-rails', groups: [:development, :test]
 
+#Use React for Frontend
+gem 'react-rails'
+
 # Use Redis adapter to run Action Cable in production
 gem 'redis', '~> 4.0'
 
